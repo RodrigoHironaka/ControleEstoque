@@ -1,0 +1,125 @@
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\ControleEstoqueMVC.dll.config
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\ControleEstoqueMVC.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\ControleEstoqueMVC.pdb
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\csc.exe
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\csc.exe.config
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\csc.rsp
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\csi.exe
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\csi.rsp
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\System.AppContext.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\vbc.exe
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\vbc.exe.config
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\vbc.rsp
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\VBCSCompiler.exe
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\Antlr3.Runtime.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\Newtonsoft.Json.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.Helpers.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.Mvc.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.Optimization.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.Razor.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.WebPages.Deployment.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.WebPages.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.WebPages.Razor.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\WebGrease.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.Helpers.xml
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.Mvc.xml
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.Optimization.xml
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.Razor.xml
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.WebPages.xml
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.WebPages.Deployment.xml
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.WebPages.Razor.xml
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\Newtonsoft.Json.xml
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\Antlr3.Runtime.pdb
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\pt-br\System.Web.Helpers.resources.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\pt-br\System.Web.Mvc.resources.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\pt-br\System.Web.Optimization.resources.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\pt-br\System.Web.Razor.resources.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\pt-br\System.Web.WebPages.resources.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\obj\Debug\ControleEstoqueMVC.csprojAssemblyReference.cache
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\obj\Debug\ControleEstoqueMVC.csproj.CopyComplete
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\obj\Debug\ControleEstoqueMVC.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\obj\Debug\ControleEstoqueMVC.pdb
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\ControleEstoqueMVC.dll.config
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\ControleEstoqueMVC.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\ControleEstoqueMVC.pdb
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\csc.exe
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\csc.exe.config
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\csc.rsp
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\csi.exe
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\csi.rsp
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\vbc.exe
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\vbc.exe.config
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\vbc.rsp
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\Antlr3.Runtime.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\Newtonsoft.Json.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.Helpers.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.Mvc.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.Optimization.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.Razor.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.WebPages.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\WebGrease.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.Helpers.xml
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.Mvc.xml
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.Optimization.xml
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.Razor.xml
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.WebPages.xml
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\Newtonsoft.Json.xml
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\obj\Debug\ControleEstoqueMVC.csprojAssemblyReference.cache
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\obj\Debug\ControleEstoqueMVC.csproj.CoreCompileInputs.cache
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\obj\Debug\ControleEstoqueMVC.csproj.CopyComplete
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\obj\Debug\ControleEstoqueMVC.dll
+C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\obj\Debug\ControleEstoqueMVC.pdb
