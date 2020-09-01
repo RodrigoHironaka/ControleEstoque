@@ -123,3 +123,4 @@ C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\
 C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\obj\Debug\ControleEstoqueMVC.csproj.CopyComplete
 C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\obj\Debug\ControleEstoqueMVC.dll
 C:\Users\Hironaka\Google Drive\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\obj\Debug\ControleEstoqueMVC.pdb
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\obj\Debug\ControleEstoqueMVC.csproj.CoreCompileInputs.cache
