@@ -22,6 +22,11 @@ namespace ControleEstoqueMVC.Controllers
             return View(_listaGrupoProduto);
         }
 
+        public ActionResult RecuperarGrupoProduto(int id)
+        {
+            return Json(_listaGrupoProduto.Find(x => x.Id == id));
+        }
+
         [Authorize]
         public ActionResult MarcaProduto()
         {
