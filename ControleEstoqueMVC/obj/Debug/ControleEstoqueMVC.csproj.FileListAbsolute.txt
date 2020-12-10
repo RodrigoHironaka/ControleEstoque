@@ -119,8 +119,8 @@ C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\pt-br\System.Web.Razor.r
 C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\pt-br\System.Web.WebPages.resources.dll
 C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
 C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\obj\Debug\ControleEstoqueMVC.csprojAssemblyReference.cache
 C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\obj\Debug\ControleEstoqueMVC.csproj.CoreCompileInputs.cache
 C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\obj\Debug\ControleEstoqueMVC.csproj.CopyComplete
 C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\obj\Debug\ControleEstoqueMVC.dll
 C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\obj\Debug\ControleEstoqueMVC.pdb
-C:\_Projetos\WEB\ControleEstoque\ControleEstoqueMVC\obj\Debug\ControleEstoqueMVC.csprojAssemblyReference.cache
