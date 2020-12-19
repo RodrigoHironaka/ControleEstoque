@@ -10,19 +10,21 @@ namespace ControleEstoqueMVC.Controllers
     
     public class CadastroController : Controller
    {
+        private const int _quantMaxLinhasPorPagina = 5;
         #region Grupos de produtos
         // GET: Cadastro
         [Authorize]
         public ActionResult GrupoProduto()
         {
-            var lista = GrupoProdutoModel.RecuperarLista();
+            ViewBag.QuantMaxLinhasPorPagina = _quantMaxLinhasPorPagina;
+            ViewBag.PaginaAtual = 1;
 
-            ViewBag.QuantMaxLinhasPorPagina = 5;
-            ViewBag.PaginaAtual = 0;
+            var lista = GrupoProdutoModel.RecuperarLista(ViewBag.PaginaAtual, _quantMaxLinhasPorPagina);
+            var quant = GrupoProdutoModel.RecuperarQuantidade();
 
-            
-            var difQuantPaginas = (lista.Count % ViewBag.QuantMaxLinhasPorPagina) > 0 ? 1 : 0;
-            ViewBag.QuantPaginas = (lista.Count / ViewBag.QuantMaxLinhasPorPagina) + difQuantPaginas;
+           
+            var difQuantPaginas = (quant % ViewBag.QuantMaxLinhasPorPagina) > 0 ? 1 : 0;
+            ViewBag.QuantPaginas = (quant / ViewBag.QuantMaxLinhasPorPagina) + difQuantPaginas;
 
             return View(lista);
         }
@@ -30,7 +32,18 @@ namespace ControleEstoqueMVC.Controllers
         [HttpPost]
         [Authorize]
         [ValidateAntiForgeryToken]
-        public ActionResult RecuperarGrupoProduto(int id)
+        public JsonResult GrupoProdutoPagina(int pagina)
+        {
+            var lista = GrupoProdutoModel.RecuperarLista(pagina, _quantMaxLinhasPorPagina);
+
+
+            return Json(lista);
+        }
+
+        [HttpPost]
+        [Authorize]
+        [ValidateAntiForgeryToken]
+        public JsonResult RecuperarGrupoProduto(int id)
         {
             return Json(GrupoProdutoModel.RecuperarPeloID(id));
         }
@@ -38,7 +51,7 @@ namespace ControleEstoqueMVC.Controllers
         [HttpPost]
         [Authorize]
         [ValidateAntiForgeryToken]
-        public ActionResult ExcluirGrupoProduto(int id)
+        public JsonResult ExcluirGrupoProduto(int id)
         { 
             return Json(GrupoProdutoModel.ExcluirPeloId(id));
         }
@@ -46,7 +59,7 @@ namespace ControleEstoqueMVC.Controllers
         [HttpPost]
         [Authorize]
         [ValidateAntiForgeryToken]
-        public ActionResult SalvarGrupoProduto(GrupoProdutoModel model)
+        public JsonResult SalvarGrupoProduto(GrupoProdutoModel model)
         {
             var resultado = "OK";
             var mensagens = new List<string>();
